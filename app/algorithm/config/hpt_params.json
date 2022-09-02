@@ -1,0 +1,10 @@
+[
+  {
+    "name": "linkage",
+    "short_desc": "Which linkage criterion to use. The linkage criterion determines which distance to use between sets of observation.",
+    "default": "ward",
+    "type": "categorical",
+    "categorical_vals": ["average", "ward", "complete", "single"],
+    "run_HPO": true
+  }
+]

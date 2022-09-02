@@ -1,0 +1,2 @@
+model,dataset_name,run_hpt,num_hpt_trials,purity,ami,dbi,chi,silhouette,dbi_best,chi_best,silhouette_best,elapsed_time_in_minutes
+clustering_base_agglomerative_clustering,penguins,False,,0.9678,0.9001,0.8465,420.7177,0.4541,0.9322,412.7087,0.4444,0.0

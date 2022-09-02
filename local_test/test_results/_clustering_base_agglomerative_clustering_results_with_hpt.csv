@@ -1,0 +1,10 @@
+model,dataset_name,run_hpt,num_hpt_trials,purity,ami,dbi,chi,silhouette,dbi_best,chi_best,silhouette_best,elapsed_time_in_minutes
+clustering_base_agglomerative_clustering,car,False,,0.7002,0.017,3.529,72.8635,0.0503,4.5585,30.2153,-0.0053,0.0
+clustering_base_agglomerative_clustering,concentric_circles,False,,0.525,0.0013,1.1612,521.0946,0.3405,494.3085,0.0038,0.0749,0.0
+clustering_base_agglomerative_clustering,four_worms,False,,0.828,0.7026,0.8243,8728.7396,0.432,1.1177,6568.0217,0.3323,0.01
+clustering_base_agglomerative_clustering,iris,False,,0.8267,0.6713,0.8059,220.2604,0.4455,1.0708,189.1739,0.3798,0.0
+clustering_base_agglomerative_clustering,penguins,False,,0.9678,0.9001,0.8465,420.7177,0.4541,0.9322,412.7087,0.4444,0.0
+clustering_base_agglomerative_clustering,statlog,False,,0.7128,0.5767,1.1021,4021.6668,0.3111,1.5126,2584.2208,0.1912,0.03
+clustering_base_agglomerative_clustering,steel_plate_fault,False,,0.5198,0.3061,1.3747,307.6042,0.1848,3.516,105.4691,0.0143,0.0
+clustering_base_agglomerative_clustering,unequal_variance_blobs,False,,0.8624,0.8648,0.6246,25104.0462,0.5376,0.7955,24140.1528,0.522,0.03
+clustering_base_agglomerative_clustering,wine,False,,0.927,0.7842,1.4186,67.6475,0.2774,1.4066,68.2519,0.2798,0.0
